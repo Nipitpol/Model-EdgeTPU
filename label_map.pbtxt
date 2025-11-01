@@ -1,0 +1,25 @@
+item {
+  id: 1
+  name: 'Wrench'
+}
+
+item {
+  id: 2
+  name: 'Wire'
+}
+
+item {
+  id: 3
+  name: 'Screwdriver'
+}
+
+item {
+  id: 4
+  name: 'Hammer'
+}
+
+item {
+  id: 5
+  name: 'MetalSheet'
+}
+
